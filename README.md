@@ -9,3 +9,7 @@ A simple working c-shell
 * ls -al
 * rm
 * mv
+* cp and cp -r 
+* cat 
+* echo
+
